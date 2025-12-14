@@ -1,0 +1,5 @@
+{
+  "name": "Semantic Text Unweaver",
+  "description": "A modern tool for text researchers to unweave meanings, analyze structures, and visualize semantic relationships using LLMs.",
+  "requestFramePermissions": []
+}
